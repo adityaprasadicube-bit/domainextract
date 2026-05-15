@@ -1,0 +1,67 @@
+# =========================
+# Virtual Environment
+# =========================
+venv/
+env/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+
+# =========================
+# Node / Frontend
+# =========================
+node_modules/
+.next/
+dist/
+build/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+
+# =========================
+# Archives / Large files
+# =========================
+*.tar
+*.zip
+*.7z
+*.rar
+
+# =========================
+# Database / Runtime Data
+# =========================
+customers/data/
+data/
+db/
+
+# =========================
+# Docker
+# =========================
+*.img
+*.iso
+docker-data/
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+venv/
+*.tar
+*.tar.gz
+customers/data/journal/
+*.pyd
+*.dll
+__pycache__/
+*.pyc
